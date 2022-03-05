@@ -1,0 +1,94 @@
+html, body {
+    font-family: 'LobsterTwo', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 28px;
+    line-height: 1.5;
+ 
+}
+html {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+style {
+    display: none;
+}
+html, body {
+    font-family: 'Lobster Two',Montserrat;
+    font-size: 28px;
+    line-height: 1.5;
+}
+html {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+element.style {
+    display: none;
+    padding-top: 150px;
+    right: 0;
+    z-index: 2;
+}
+.black, hover-black:hover {
+    color: #fff!important;
+    background-color: #000!important;
+}
+.xxlarge {
+    font-size: 36px!important;
+}
+.animate-right {
+    position: relative;
+    animation: animateright 0.4s;
+}
+.sidebar {
+    height: 100%;
+    width: 100px;
+    background-color: #fff;
+    position: fixed!important;
+    z-index: 1;
+    overflow: auto;
+}
+article, aside, details, figcaption, figure, footer, header, main, menu, nav, section {
+    display: block;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+nav {
+    display: block;
+}
+body, h1, h2, h3, h4, h5, h6 {
+    font-family: 'Lobster Two', Montserrat;
+ 
+    
+}
+html, body {
+    font-family: 'Lobster Two', Montserrat;
+    font-size: 28px;
+    line-height: 1.5;
+}
+html {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
